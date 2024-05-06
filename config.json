@@ -1,0 +1,6 @@
+{
+    "PORT": 3000,
+    "DATABASE_URL": "mongodb://localhost/my-db",
+    "host":"https://tw.yahoo.com/?guccounter=1"
+  }
+  
